@@ -30,6 +30,7 @@ function LoginPage() {
         'token',
         response.data.access
       )
+      alert('Login Successful')
 
       navigate('/dashboard')
 
