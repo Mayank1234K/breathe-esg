@@ -76,6 +76,10 @@ DATABASES = {
         'PORT': os.environ.get('DB_PORT'),
     }
 }
+print("DB_NAME =", os.environ.get('DB_NAME'))
+print("DB_USER =", os.environ.get('DB_USER'))
+print("DB_HOST =", os.environ.get('DB_HOST'))
+print("DB_PORT =", os.environ.get('DB_PORT'))
 
 AUTH_PASSWORD_VALIDATORS = []
 
