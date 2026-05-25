@@ -1,0 +1,46 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Django
+staticfiles/
+media/
+
+# Environment Variables
+.env
+
+# Node
+node_modules/
+dist/
+build/
+
+# Vite
+.vite/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Coverage
+htmlcov/
+.coverage
+
+# Pytest
+.pytest_cache/
+
+# Mac
+.AppleDouble
+.LSOverride
+
+# Windows
+Desktop.ini

@@ -1,0 +1,3 @@
+employee_id,travel_type,origin,destination,distance_km
+EMP01,flight,BLR,DEL,1740
+EMP02,flight,BOM,SIN,3900
